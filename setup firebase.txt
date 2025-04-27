@@ -1,0 +1,6 @@
+
+
+3. Ubah Execution Policy Secara Permanen (Opsional)
+Jika ingin mengizinkan eksekusi script secara permanen, jalankan PowerShell sebagai Administrator, lalu ketik:
+    command :
+    " Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser "
